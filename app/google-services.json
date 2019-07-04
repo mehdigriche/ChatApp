@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "3989171748",
+    "firebase_url": "https://android-chat-app-b2cff.firebaseio.com",
+    "project_id": "android-chat-app-b2cff",
+    "storage_bucket": "android-chat-app-b2cff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3989171748:android:385f5ef737d87172",
+        "android_client_info": {
+          "package_name": "com.mehdigriche.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3989171748-8r9irdl6fnt6d3acfj2nkgidif2s5328.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mehdigriche.chatapp",
+            "certificate_hash": "be969062bcdd911bbe557afa0a1675749d7f394c"
+          }
+        },
+        {
+          "client_id": "3989171748-d72qs2ice6b9uk3b7ooofg3tob4r7dcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_0L9oPBAJx70chyjDXlZFE1vAvgcU91w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3989171748-d72qs2ice6b9uk3b7ooofg3tob4r7dcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
